@@ -1,0 +1,19 @@
+{
+  "name": "fetch",
+  "version": "1.0.0",
+  "description": "Query Google Search API to fetch results in JSON machine format",
+  "keywords": [
+    "Fetch"
+  ],
+  "license": "MIT",
+  "author": "71072643+eNkKVS4HxHc9jaq@users.noreply.github.com",
+  "type": "module",
+  "scripts": {
+    "test": ""
+  },
+  "dependencies": {
+    "dotenv": "^18.0.3",
+    "dotenv-expand": "^1000.0.0",
+    "ignore": "^7.0.10"
+  }
+}

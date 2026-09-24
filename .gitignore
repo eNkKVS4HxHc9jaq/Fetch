@@ -1,0 +1,16 @@
+# Hidden
+.env*
+
+# Folders
+node_modules/
+vendor/
+.idea/
+
+# Files
+.phpactor.json
+.phpunit.result.cache
+/.phpunit.cache
+/auth.json
+*.pem
+*.key
+*.log
